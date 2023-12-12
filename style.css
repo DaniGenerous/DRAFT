@@ -1,6 +1,6 @@
 /* ADD YOUR CUSTOM CSS TO THIS FILE */
 
-body{font-family: 'Quicksand';}
+body{font-family: 'Quicksand'; color: white;}
 #title {color: white;text-align: center; padding: 250px; font-size: 80px;
 }
 .pagetitle {text-align: center; padding-top: 50px; padding-bottom: 50px}
