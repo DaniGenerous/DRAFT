@@ -2,7 +2,7 @@
 
 body{font-family: 'Quicksand'; color:black; }
 
-.pagetitle {text-align: center; padding-top: 50px; padding-bottom: 50px}
+#title {color: white;text-align: center; padding: 250px; font-size: 80px; }
 #midge {color:white !important; padding-left: 810px; padding-top: 130px; font-style: italic;
 }
 
