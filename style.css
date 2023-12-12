@@ -1,9 +1,9 @@
 /* ADD YOUR CUSTOM CSS TO THIS FILE */
 
-body{font-family: 'Quicksand';}
+body{font-family: 'Quicksand'; color:black; }
 
 .pagetitle {text-align: center; padding-top: 50px; padding-bottom: 50px}
-#midge {color:white; padding-left: 810px; padding-top: 130px; font-style: italic;
+#midge {color:white !important; padding-left: 810px; padding-top: 130px; font-style: italic;
 }
 
 #title {color: white;text-align: center; padding: 250px; font-size: 80px;
