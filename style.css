@@ -2,8 +2,8 @@
 
 body{font-family: 'Quicksand'; color:black; }
 
-#fronttitle {text-align: center; padding-top: 250px; font-size: 80px; color:white}
-#midge {color:white !important; padding-left: 810px; padding-top: 130px; font-style: italic;
+#fronttitle {text-align: center; padding-top: 250px; font-size: 80px;}
+#midge {color:black; padding-left: 810px; padding-top: 130px; font-style: italic;
 }
 
 #title {color: white;text-align: center; padding: 250px; font-size: 80px;
