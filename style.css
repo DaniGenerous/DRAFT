@@ -1,6 +1,11 @@
 /* ADD YOUR CUSTOM CSS TO THIS FILE */
 
-body{font-family: 'Quicksand'; color: white;}
+body{font-family: 'Quicksand';}
+
+.pagetitle {text-align: center; padding-top: 50px; padding-bottom: 50px}
+#midge {color:white; padding-left: 810px; padding-top: 130px; font-style: italic;
+}
+
 #title {color: white;text-align: center; padding: 250px; font-size: 80px;
 }
 .pagetitle {text-align: center; padding-top: 50px; padding-bottom: 50px}
